@@ -1103,7 +1103,7 @@ echo kedua, karakter escape dengan awalan $ \, dicetak sebagai string literal.
 <h3>Backslash Character (\)</h3>
 Karakter backslash digunakan untuk menghindari karakter-karakter dalam string. Ini digunakan dalam string yang dikutip oleh tanda kutip ganda.
 
-```
+```bash
 echo escape $$ example # escape 3225 example
 echo escape \$$ example # escape $$ example
 ```
